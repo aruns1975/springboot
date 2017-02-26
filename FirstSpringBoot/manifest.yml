@@ -1,0 +1,6 @@
+---
+applications:
+- name: MyFirstSpringAPP                                                      # you can use any name you like
+  memory: 512M
+  instances: 1
+  path: target/swaggertest-0.0.1-SNAPSHOT.jar
