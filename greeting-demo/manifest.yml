@@ -1,0 +1,6 @@
+---
+applications:
+- name: MyFirstSpringBootApp
+  memory: 256m
+  instances: 1
+  path: target/greeting-demo-0.0.1-SNAPSHOT.jar
