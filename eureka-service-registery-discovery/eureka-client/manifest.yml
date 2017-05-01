@@ -1,0 +1,7 @@
+---
+applications:
+- name: arun-eureka-client
+  memory: 512M
+  host: arun-eureka-client
+  domain: cfapps.io
+  buildpack: java_buildpack

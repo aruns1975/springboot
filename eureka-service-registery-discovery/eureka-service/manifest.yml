@@ -1,0 +1,7 @@
+---
+applications:
+- name: eureka-service
+  memory: 512M
+  host: eureka-service
+  domain: cfapps.io
+  buildpack: java_buildpack
